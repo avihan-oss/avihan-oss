@@ -9,3 +9,5 @@ I'm a student at **IISER TVM** specializing in Mathematics and Machine Learning.
 - 📫 **Contact:** avinash23@iisertvm.ac.in
 
 ---
+
+* 📄 **CV:** [Download/View My CV](./CV_Avinash_Chauhan.pdf)
