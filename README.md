@@ -10,6 +10,6 @@ I'm a student at **IISER TVM** specializing in Mathematics and Machine Learning.
 
 ---
 
-* 📄 **CV:** [Download/View My CV](./CV_Avinash_Chauhan.pdf)
+* 📄 **CV:** [Download/View My CV](./documents/CV_Avinash_Chauhan.pdf)
 
 
