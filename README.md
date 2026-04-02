@@ -12,4 +12,4 @@ I'm a student at **IISER TVM** specializing in Mathematics and Machine Learning.
 
 * 📄 **CV:** [Download/View My CV](./CV_Avinash_Chauhan.pdf)
 
-* [![CV](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledrive)](YOUR_FILE_URL_HERE)
+
